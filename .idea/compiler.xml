@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aop" />
+        <module name="io-stream" />
+        <module name="scheduled" />
+        <module name="jdbctemplate" />
+        <module name="converter" />
+        <module name="mybatis" />
+        <module name="jdbc" />
+        <module name="springsecurity" />
+        <module name="redisson" />
+        <module name="hibernate" />
+        <module name="dynamic-datasource" />
+        <module name="redis" />
+        <module name="swagger" />
+        <module name="logback" />
+        <module name="globalexception" />
+        <module name="elasticsearch" />
+        <module name="mongdb" />
+        <module name="websocket" />
+        <module name="jpa" />
+        <module name="dyanmic-thread-pool" />
+        <module name="event" />
+        <module name="vadidation" />
+        <module name="encrpt-decrypt" />
+        <module name="springmvc" />
+        <module name="log4j" />
+        <module name="annotation" />
+        <module name="aspectJ" />
+        <module name="activemq" />
+        <module name="proxypattern" />
+        <module name="dubbo-rpc" />
+        <module name="junit" />
+        <module name="rocketmq" />
+        <module name="druid-datasource" />
+        <module name="design-model" />
+        <module name="thymeleaf" />
+        <module name="rabbitmq" />
+        <module name="lettuce" />
+        <module name="enum" />
+        <module name="grpc" />
+        <module name="shiro" />
+        <module name="webservice" />
+        <module name="guava" />
+        <module name="mybatis-plus" />
+        <module name="transactional" />
+        <module name="sa-token" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

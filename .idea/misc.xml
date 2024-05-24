@@ -1,0 +1,58 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/aop/pom.xml" />
+        <option value="$PROJECT_DIR$/design-model/pom.xml" />
+        <option value="$PROJECT_DIR$/enum/pom.xml" />
+        <option value="$PROJECT_DIR$/annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo-rpc/pom.xml" />
+        <option value="$PROJECT_DIR$/grpc/pom.xml" />
+        <option value="$PROJECT_DIR$/druid-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/dynamic-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/encrpt-decrypt/pom.xml" />
+        <option value="$PROJECT_DIR$/guava/pom.xml" />
+        <option value="$PROJECT_DIR$/io-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/converter/pom.xml" />
+        <option value="$PROJECT_DIR$/event/pom.xml" />
+        <option value="$PROJECT_DIR$/vadidation/pom.xml" />
+        <option value="$PROJECT_DIR$/transactional/pom.xml" />
+        <option value="$PROJECT_DIR$/websocket/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger/pom.xml" />
+        <option value="$PROJECT_DIR$/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/mongdb/pom.xml" />
+        <option value="$PROJECT_DIR$/kafaka/pom.xml" />
+        <option value="$PROJECT_DIR$/scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/springsecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/aspectJ/pom.xml" />
+        <option value="$PROJECT_DIR$/junit/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/rocketmq/pom.xml" />
+        <option value="$PROJECT_DIR$/webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/dyanmic-thread-pool/pom.xml" />
+        <option value="$PROJECT_DIR$/log4j/pom.xml" />
+        <option value="$PROJECT_DIR$/logback/pom.xml" />
+        <option value="$PROJECT_DIR$/globalexception/pom.xml" />
+        <option value="$PROJECT_DIR$/thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbctemplate/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate/pom.xml" />
+        <option value="$PROJECT_DIR$/lettuce/pom.xml" />
+        <option value="$PROJECT_DIR$/sa-token/pom.xml" />
+        <option value="$PROJECT_DIR$/activeMq/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/shiro/pom.xml" />
+        <option value="$PROJECT_DIR$/proxypattern/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
