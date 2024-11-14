@@ -8,8 +8,58 @@
     <artifactId>spring-practice</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+
     <modules>
         <module>spring-extension</module>
+        <module>activemq</module>
+        <module>annotation</module>
+        <module>aop</module>
+        <module>aspectJ</module>
+        <module>converter</module>
+        <module>design-model</module>
+        <module>druid-datasource</module>
+        <module>dubbo-rpc</module>
+        <module>dyanmic-thread-pool</module>
+        <module>dynamic-datasource</module>
+        <module>elasticsearch</module>
+        <module>encrpt-decrypt</module>
+        <module>enum</module>
+        <module>event</module>
+        <module>globalexception</module>
+        <module>grpc</module>
+        <module>guava</module>
+        <module>hibernate</module>
+        <module>io-stream</module>
+        <module>jdbc</module>
+        <module>jdbctemplate</module>
+        <module>jpa</module>
+        <module>junit</module>
+        <module>lettuce</module>
+        <module>log4j</module>
+        <module>logback</module>
+        <module>mongdb</module>
+        <module>mybatis</module>
+        <module>mybatis-plus</module>
+        <module>proxypattern</module>
+        <module>rabbitmq</module>
+        <module>redis</module>
+        <module>redisson</module>
+        <module>rocketmq</module>
+        <module>sa-token</module>
+        <module>scheduled</module>
+        <module>shiro</module>
+        <module>springmvc</module>
+        <module>springsecurity</module>
+        <module>swagger</module>
+        <module>thymeleaf</module>
+        <module>transactional</module>
+        <module>vadidation</module>
+        <module>webservice</module>
+        <module>websocket</module>
+
+
+
+
     </modules>
 
 

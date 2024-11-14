@@ -6,7 +6,7 @@ import lombok.experimental.Accessors;
 import org.springframework.beans.factory.annotation.Value;
 
 /**
- * @author snayou
+ * @author jiabin.yu
  * @date 2022/7/16 21:53
  */
 @Getter

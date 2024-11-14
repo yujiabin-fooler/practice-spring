@@ -15,8 +15,8 @@ public class UserBeanPostProcessor implements BeanPostProcessor {
     @Override
     public Object postProcessAfterInitialization(Object bean, String beanName) throws BeansException {
         if (bean instanceof User) {
-            //如果当前的Bean的类型是 User ，就把这个对象 username 的属性赋值为 三友的java日记
-            ((User) bean).setUsername("三友的java日记");
+            //如果当前的Bean的类型是 User ，就把这个对象 username 的属性赋值为 java日记
+            ((User) bean).setUsername("java日记");
         }
 
         return bean;
