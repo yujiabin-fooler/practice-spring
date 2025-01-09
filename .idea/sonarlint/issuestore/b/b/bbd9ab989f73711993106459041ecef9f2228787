@@ -1,0 +1,6 @@
+
+³
+java:S1130"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(øöÑäJ$f70cdabe-e06c-4f3c-973b-2a18e477031e
+f	java:S106"+Replace this use of System.out by a logger.(´ì”òJ$aa65d461-59b1-4b18-96d4-f00428f28ff1
+f	java:S106"+Replace this use of System.out by a logger.(ßÛÆ§J$9b0bea25-4fc6-447c-a65c-7012fafe2b76
+f	java:S106""+Replace this use of System.out by a logger.(ÆüÈÂJ$99e2ae2c-c81c-45c1-8c42-013dbf33d99c

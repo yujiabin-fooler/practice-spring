@@ -1,0 +1,8 @@
+
+m	java:S106"+Replace this use of System.out by a logger.(‘ÙëÚ8Ş»ÄÕÄ2J$cc64b6f4-6766-4f5d-abbc-951a2fad5269
+Œ
+java:S1128"DRemove this unused import 'org.springframework.beans.TypeConverter'.(¸ºá•ÿÿÿÿÿ8ß»ÄÕÄ2J$fc9e36d9-1de3-437f-8ac5-8de5a988c25f
+•
+java:S1128"RRemove this unused import 'org.springframework.context.ApplicationEventPublisher'.(¤ë¢½8ß»ÄÕÄ2J$5c528d4a-c2a1-49df-81bb-4f1fcdb2c7a3
+„
+java:S1128"ARemove this unused import 'org.springframework.core.io.Resource'.(¹ÒÁ8à»ÄÕÄ2J$a1fda7a7-b31d-490f-acc5-4a5824b51001
